@@ -18,7 +18,7 @@ So, in case of entering **valid data**, we able to scan this QR Code by any scan
 
 This Project was created due to the efforts of all the team members and their indescribable hard work.
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/RamziMuhammad">
